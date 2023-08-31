@@ -1,3 +1,8 @@
+## personal additions
+# ignore zellij project config
+layout.kdl 
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
