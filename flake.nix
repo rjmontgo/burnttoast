@@ -1,5 +1,5 @@
 {
-  description = "";
+  description = "Python/Flask Server Flake for burnttoast project";
 
   inputs = {
     flake-utils.url = "github:numtide/flake-utils";
